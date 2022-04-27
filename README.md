@@ -49,10 +49,10 @@ Here are some ideas to get you started:
 <br/>
 <p align="left"; style="display: flex;justify-content: space-evenly;width: 40%;">
 <a href="https://www.linkedin.com/in/suman-vastrakar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jay-sanodiya" height="40" width="50" /></a>
-<a href="https://fb.com/jay sanodiya" target="blank"><img align="center" src="https://camo.githubusercontent.com/898db73904e0e8df853ab6cb78b06b92295417dfd04cca73c3745e0b717455ad/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3238312f3238313736392e706e67" alt="jay sanodiya" height="40" width="50" /></a>
-<a href="https://instagram.com/jay341sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay341sk" height="40" width="50" /></a>
+<a href="suman1vastrakar@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/898db73904e0e8df853ab6cb78b06b92295417dfd04cca73c3745e0b717455ad/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3238312f3238313736392e706e67" alt="SumanVastrakar" height="40" width="50" /></a>
+<!-- <a href="https://instagram.com/jay341sk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay341sk" height="40" width="50" /></a>
 <a href="https://medium.com/@jay.sanodiya09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jay.sanodiya09" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/jay_sanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jay_sanodiya" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/jay_sanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jay_sanodiya" height="40" width="50" /></a> -->
 </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaysanodiya&show_icons=true&locale=en&layout=compact" alt="jaysanodiya" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SumanVastrakar&show_icons=true&locale=en&layout=compact" alt="SumanVastrakar" /></div>
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaysanodiya&show_icons=true&locale=en" alt="jaysanodiya" /></div>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SumanVastrakar&show_icons=true&locale=en" alt="SumanVastrakar" /></div>
 
 <!-- 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysanodiya&" alt="jaysanodiya" /></p> -->
