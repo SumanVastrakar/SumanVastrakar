@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 <h3 align="left">A passionate FullStack Web developer</h3>
 </div>
 <div>
-    <img align="right" alt="Coding" width="400" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif">
+    <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/706457c438d2031942745299f52de650adf45a3b87de1ded443696b405dd881d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966">
 </div>
 
 </div>
 
 
-<p align="left"> <img src="https://camo.githubusercontent.com/706457c438d2031942745299f52de650adf45a3b87de1ded443696b405dd881d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966" alt="SumanVastrakar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SumanVastrakar&label=Profile%20views&color=0e75b6&style=flat" alt="SumanVastrakar" /> </p>
 
 
 
